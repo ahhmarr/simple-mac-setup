@@ -1,3 +1,8 @@
+# Slides 
+
+https://docs.google.com/a/niiu.de/presentation/d/12hjSUvVb7VqyGdSq_QozZBk5jAIdRVo1lBWHCuHEwRw/edit?usp=sharing
+
+
 # Homebrew
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -67,6 +72,9 @@ http://sublimetext.info/docs/en/extensibility/snippets.html
 
 https://packagecontrol.io/
 
+### preferred themes
+
+https://github.com/saadq/Materialize
 
 
 
